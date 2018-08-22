@@ -12,6 +12,7 @@
     <module>component-log-logback</module>
     <module>tool-vcs-git</module>
     <module>protocol-network-http</module>
+      <module>pattern-structural-proxy</module>
   </modules>
 
   <name>my-components-parent</name>
